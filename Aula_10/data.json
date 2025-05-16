@@ -1,0 +1,17 @@
+[
+{
+    "nome": "John Doe",
+    "idade": 30,
+    "cidade": "New York"
+},
+{
+    "nome": "Jane Loe",
+    "idade": 34,
+    "cidade": "Brooklin"
+},
+{
+    "nome": "Joseph Channex",
+    "idade": 60,
+    "cidade": "New Jersey"
+}
+]
