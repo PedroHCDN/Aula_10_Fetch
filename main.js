@@ -33,6 +33,7 @@ function cadastrar() {
         },
         body: JSON.stringify(animal)
     }).then(response => response.json())
+    .then(location.reload(true))
     .then(data => console.log(data))
     .catch(error => console.log(error));
 }
